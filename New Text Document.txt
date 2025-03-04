@@ -2,5 +2,7 @@ Hi
 Test document
 Learning about Git
 practice
+Branches
+Adding in the git
 
 
